@@ -18,8 +18,6 @@ public class Book {
         this.totalMoney = totalMoney;
     }
 
-    public Book(int i, String s, int i1, int i2) {
-    }
 
     @Override
     public String toString() {
